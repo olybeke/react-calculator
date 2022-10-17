@@ -1,0 +1,41 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+main {
+  text-align: center;
+  vertical-align: center;
+  border-radius: 20px;
+}
+
+
+main {
+  width: 320px;
+  background-color: #ff00dd;
+}
+
+.output {
+  text-align: right;
+  height: 60px;
+  font-size: 30px;
+  padding: 10px;
+}
+
+button {
+  width: 70px;
+  height: 70px;
+  font-weight: 800;
+  border-radius: 10px;
+  border: none;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.equals {
+  width: 140px;
+  background-color: purple;
+  margin-left: 10px;
+}
